@@ -15,4 +15,5 @@ The LSTM models performed slightly better than Naïve Bayes accuracy.
 
 # Source
 Data: semeval-2017-tweets_Subtask-A
+
 Paper: Rosenthal_2017_SemEval-2017 Task 4- Sentiment Analysis in Twitter
