@@ -8,7 +8,7 @@ In the Naive Bayes, we transform tweets into bag of words as input. In LSTM, we 
 
 # Code
 
-The source code is not provided because it takes extra time to organize, but basically we use NLP modules such as gensim and spacy. Also, tensorflow and scikit-learn are used for modeling.   
+The source codes are provided. 
 
 # Result
 The LSTM models performed slightly better than Naïve Bayes accuracy.
