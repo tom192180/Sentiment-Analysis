@@ -1,10 +1,10 @@
 # Sentiment-Analysis
 
-The project is done by Laura Jansen-Storbacka and I-fan Lin
+The project is done by Laura Jansen-Storbacka and I-fan Lin.
 
-This is an project in the textmining course. We are given tweets and corresponded feeling (labels: negative, neutral, and positive) and we are free to choose any models. We applied both Naive Bayes and LSTM models to predict a label on a given tweet.
+This is an project in the textmining course. We are given data of tweets and corresponded feeling (labels: negative, neutral, and positive). We are free to choose any models. We applied both Naive Bayes and LSTM models to predict a label on a given tweet.
 
-In the Naive Bayes, we transform tweets into bag of words as input. In LSTM, we applied word ebeddings, either learnt from the model or word2vec.
+In the Naive Bayes, we transform tweets into bag of words as input. In LSTM, we applied word ebeddings, either learnt from the model or directly use the word2vec.
 
 # Code
 
